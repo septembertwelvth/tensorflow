@@ -1,4 +1,4 @@
-FROM ubuntu:24.04@sha256:2e863c44b718727c860746568e1d54afd13b2fa71b160f5cd9058fc436217b30
+FROM ubuntu:24.04@sha256:a08e551cb33850e4740772b38217fc1796a66da2506d312abe51acda354ff061
 
 LABEL maintainer="Shanqing Cai <cais@google.com>"
 
